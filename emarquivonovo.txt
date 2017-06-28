@@ -1,0 +1,5 @@
+total 6
+-rw-r--r-- 1 alessandro 197611 1093 jun 28 02:41 LICENSE
+-rw-r--r-- 1 alessandro 197611    7 jun 28 02:41 README.md
+-rw-r--r-- 1 alessandro 197611   16 jun 28 02:42 arquivo.php
+-rw-r--r-- 1 alessandro 197611    0 jun 28 02:43 emarquivonovo.txt
